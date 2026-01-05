@@ -29,12 +29,11 @@ http://localhost:3000
 
 ## Estrutura do Projeto
 DuartTech/
-
--├── public/        # Arquivos estáticos (CSS, JS, imagens)
--├── views/         # Páginas HTML
--├── server.js      # Servidor Node.js
--├── package.json
--└── README.md
+├── public/ #Arquivos estáticos (css, js)
+├── views/ #Páginas HTML
+├── server.js #Servidor Node.js
+├── package.json
+├── README.md
 
 ## Objetivo
 - Praticar Node.js e Express
@@ -44,4 +43,5 @@ DuartTech/
 
 ## Contato
 Dúvidas ou sugestões podem ser enviadas pelas Issues do repositório.
+
 
