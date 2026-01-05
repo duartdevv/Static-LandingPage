@@ -16,18 +16,18 @@ Projeto desenvolvido com foco em aprendizado prático e portfólio back-end.
 
 ## Instalação
 Instale as dependências do projeto:
-
+```
 npm install
-
+```
 ## Uso
 Inicie o servidor:
-
+```
 npm start
-
+```
 Acesse no navegador:
-
+```
 http://localhost:3000
-
+```
 ## Estrutura do Projeto
 ```
 DuartTech/
@@ -50,3 +50,4 @@ DuartTech/
 
 ## Contato
 Dúvidas ou sugestões podem ser enviadas pelas Issues do repositório.
+
