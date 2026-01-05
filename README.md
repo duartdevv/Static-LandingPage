@@ -1,3 +1,4 @@
+
 # DuartTech - Landing Page com Node.js
 
 ## Descrição
@@ -28,13 +29,19 @@ Acesse no navegador:
 http://localhost:3000
 
 ## Estrutura do Projeto
+```
 DuartTech/
-├── public/ #Arquivos estáticos (css, js)
-├── views/ #Páginas HTML
-├── server.js #Servidor Node.js
+├── public/
+│ ├── css/
+│ ├── js/
+│ └── images/
+├── views/
+│ ├── index.html
+│ └── 404.html
+├── server.js
 ├── package.json
-├── README.md
-
+└── README.md
+```
 ## Objetivo
 - Praticar Node.js e Express
 - Trabalhar com rotas e arquivos estáticos
@@ -43,5 +50,3 @@ DuartTech/
 
 ## Contato
 Dúvidas ou sugestões podem ser enviadas pelas Issues do repositório.
-
-
