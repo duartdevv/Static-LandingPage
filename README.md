@@ -1,35 +1,45 @@
-# DuartTech - LandingPage
+# DuartTech - Landing Page com Node.js
 
 ## Descrição
+Landing page institucional com back-end em Node.js utilizando Express.
+O projeto possui rotas configuradas, entrega de arquivos estáticos e tratamento de erro 404 para rotas inválidas.
 
-Projeto de uma LandingPage, com um servidor NodeJS com rotas e página de ERROR 404 caso o usuário entre em uma rota inválida.
+Projeto desenvolvido com foco em aprendizado prático e portfólio back-end.
+
+## Tecnologias
+- Node.js
+- Express
+- HTML5
+- CSS3
+- JavaScript
 
 ## Instalação
+Instale as dependências do projeto:
 
-```bash
 npm install
-```
 
 ## Uso
+Inicie o servidor:
 
-```bash
 npm start
-```
+
+Acesse no navegador:
+
+http://localhost:3000
 
 ## Estrutura do Projeto
-
-```
 DuartTech/
-├── public/
-├── views/
+├── public/        # Arquivos estáticos (CSS, JS, imagens)
+├── views/         # Páginas HTML
+├── server.js      # Servidor Node.js
+├── package.json
 └── README.md
-```
 
-## Acesse aqui
-
-https://duartdevv.github.io/Static-LandingPage/
+## Objetivo
+- Praticar Node.js e Express
+- Trabalhar com rotas e arquivos estáticos
+- Implementar página de erro 404
+- Servir como base para projetos maiores
 
 ## Contato
-
-
-Para mais informações, entre em contato através das issues do projeto.
+Dúvidas ou sugestões podem ser enviadas pelas Issues do repositório.
