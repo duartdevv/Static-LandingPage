@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto de aprendizagem prática.
+Projeto de uma LandingPage, com um servidor NodeJS com rotas e página de ERROR 404 caso o usuário entre em uma rota inválida.
 
 ## Instalação
 
@@ -19,20 +19,17 @@ npm start
 ## Estrutura do Projeto
 
 ```
-LPs/
-├── src/
-├── tests/
+DuartTech/
+├── public/
+├── views/
 └── README.md
 ```
 
-## Contribuindo
+## Acesse aqui
 
-Faça um fork do projeto e envie um pull request com suas melhorias.
-
-## Licença
-
-MIT
+https://duartdevv.github.io/Static-LandingPage/
 
 ## Contato
+
 
 Para mais informações, entre em contato através das issues do projeto.
