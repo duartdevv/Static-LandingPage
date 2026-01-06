@@ -5,7 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   let i = 0
   const text = "DuartTech"
-
   function typeWriter() {
     if (i < text.length) {
       h1.innerText += text.charAt(i)
@@ -15,4 +14,5 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   typeWriter()
-})
+}) // NOTA: O efeito de TYPEWRITER, pode não funcionar caso o arquivo seja rodado com o servidor Node. Com o live-server o efeito roda normalmente
+
